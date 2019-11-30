@@ -1,0 +1,7 @@
+﻿document_id,page_no,features,tech_debt,security,arch
+1122,8,Network Protocol: HTTP,0,1,0
+1122,8,OS: Windows 8 / 8.1 / 10 (64-bit OS required),0,0,0
+1122,8,OS: Windows 7  (64-bit OS required),1,0,0
+1122,8,Memory: 4 GB RAM,0,0,1
+1122,9,Graphics: NVIDIA GeForce GTX 750Ti(2 GB),0,0,0
+1122,9,Storage: 10 GB ,0,0,1
